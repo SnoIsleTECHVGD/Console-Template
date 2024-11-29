@@ -2,7 +2,7 @@
 
 The following is a template you must copy when creating a console project in the video game design class. If working with team members, you must share the new repository with them so they can work on the copy of the repository and not the original.
 
-## Steps
+## Instructions
 
 1. Copy the repository template by clicking the "Use This Template" button at the top-right corner of this page
 2. Share this repository with anyone working on the project with you
